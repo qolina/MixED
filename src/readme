@@ -1,0 +1,11 @@
+This directory creates a Chinese event detection model, with input [c11, c12, ..., w1, c21, c22, ..., w2, c31, c32, ..., w3, ...], and output [B, I, ..., evttag1, O, ..., evttag2, ..., evttag3] or [B-tag1, I-tag1, ..., evttag1, O, ..., evttag2, ..., evttag3]
+
+Encoder uses LSTM/GRU
+Two Decoder for word and char.
+may use ILP for post processing.
+
+
+Note on tuning parameters:
+1)batch_size 20>[50|100|128]
+2)adam: stable, fast convergence, LOWER performance, early_stop=30
+3)sgd/adadelta: early_stop=100, lr=1|2, may have to tune gru_hidden_dim 300|400|500

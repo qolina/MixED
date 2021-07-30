@@ -1,0 +1,6 @@
+或许 历史 会 重复 ， 史 书会 记载 ： 美国 的 独裁者 小布什 借口 核 问题 ， 联合 日本 对 朝鲜 发动 了 侵略 战争 。	O O O O O O O O O O O O O O O O O O O O O O O O Attack O
+熟料 话音 未 落 ， 表姐 要 结婚 了 。	O O O O O O O Marry O O
+同年夏天 ， 福永 等 人 在 研修班 上 又 对 她 说 ， 要 想得到 幸福 必须 捐款 。	O O O O O O O O O O O O O O O O O Transfer-money O
+美国 于 11月7日 （ 星期二 ） 举行 总统 选举 。	O O O O O O O O Elect O
+“ 在 充分考虑 了 双方 的 证词 和 意见 以后 ， 我们 深信 ， 如果 将 赖昌星 和 江明娜 释放 ， 不大 可能 将 他们 从 加拿大 遣返 回 国 。 ”	O O O O O O O O O O O O O O O O O O O Release-parole O O O O O O O Transport O O O O
+赖昌星 的 远华公司 被 指控 逃避关税 ， 通过 贿赂 上百 的 省 市 级 官员 得到 政府 的 保护 并且 通过 威胁 敲诈勒索 其它 企业 或 商人 。	O O O O Charge-indict O O O O O O O O O O O O O O O O O O O O O O O
