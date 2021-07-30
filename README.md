@@ -1,5 +1,5 @@
 # MixED
-# Author: Yanxia Qin (Donghua University)
+Author: Yanxia Qin (Donghua University)
 Code for Neural Chinese Event Detection (mix sequence + BiLSTM + double decoder + joint inference with ILP)
 
 Softwares: 
